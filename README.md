@@ -129,8 +129,8 @@ Spins up PostgreSQL 16, backend migrations, demo seeding, and the Nginx-hosted R
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-org/newtonite.git
-cd newtonite
+git clone https://github.com/notorious404/Newtonite.git
+cd Newtonite
 
 # 2. Start all services
 docker compose up --build -d
@@ -161,7 +161,7 @@ python -m venv .venv
 
 # Activate virtual environment
 # Windows:
-.venv\Scripts\activate
+.\.venv\Scripts\Activate.ps1
 # Linux/macOS:
 source .venv/bin/activate
 
