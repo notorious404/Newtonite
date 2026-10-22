@@ -1,4 +1,4 @@
-##⚡ Newtonite Ops: Operations Under Pressure
+#⚡ Newtonite Ops: Operations Under Pressure
 
 <div align="center">
 
